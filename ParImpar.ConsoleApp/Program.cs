@@ -6,7 +6,7 @@ namespace ParImpar.ConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Digite um número: ");
+            Console.Write("Digite um número: ");
             double n = Convert.ToDouble(Console.ReadLine());
 
             double resto = n % 2;
