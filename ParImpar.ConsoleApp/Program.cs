@@ -6,7 +6,19 @@ namespace ParImpar.ConsoleApp
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine("Digite um número: ");
+            double n = Convert.ToDouble(Console.ReadLine());
+
+            double resto = n % 2;
+
+            if (resto == 0)
+            {
+                Console.WriteLine(n+" é Par");
+            }
+            else
+            {
+                Console.WriteLine(n+" é Impar");
+            }
         }
     }
 }
