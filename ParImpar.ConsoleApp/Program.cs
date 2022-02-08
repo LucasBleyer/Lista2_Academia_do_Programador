@@ -19,6 +19,7 @@ namespace ParImpar.ConsoleApp
             {
                 Console.WriteLine(n+" é Impar");
             }
+            Console.ReadLine();
         }
     }
 }

@@ -30,6 +30,7 @@ namespace IMC.ConsoleApp
             {
                 Console.WriteLine("Obeso");
             }
+            Console.ReadLine();
         }
     }
 }
