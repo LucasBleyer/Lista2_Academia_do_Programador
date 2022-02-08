@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SomaAeB.ConsoleApp", "SomaA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrdemDecrescente.ConsoleApp", "OrdemDecrescente.ConsoleApp\OrdemDecrescente.ConsoleApp.csproj", "{348CFA3E-87EF-4590-B74A-9031324F5904}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMC.ConsoleApp", "IMC.ConsoleApp\IMC.ConsoleApp.csproj", "{3C99D69C-8E59-4AC1-9C4E-79171A6447EF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{348CFA3E-87EF-4590-B74A-9031324F5904}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{348CFA3E-87EF-4590-B74A-9031324F5904}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{348CFA3E-87EF-4590-B74A-9031324F5904}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C99D69C-8E59-4AC1-9C4E-79171A6447EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C99D69C-8E59-4AC1-9C4E-79171A6447EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C99D69C-8E59-4AC1-9C4E-79171A6447EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C99D69C-8E59-4AC1-9C4E-79171A6447EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
