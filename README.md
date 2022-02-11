@@ -1,4 +1,4 @@
-# Lista2_Academia_do_Programador 
+# Lista 2 Academia do Programador 
 
 Lista de Exercícios de Condicionais
 
